@@ -1,7 +1,7 @@
 package main
 import (
 	"flag"
-	"github.com/alexeyneu/rino/on_green"
+	"github.com/alexeyneu/rino/on_green@latest"
 )
 
 

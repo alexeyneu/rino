@@ -2,7 +2,7 @@ package main
 import (
 	"flag"
 	"time"
-	"github.com/alexeyneu/rino/on_green"
+	"github.com/alexeyneu/rino/on_green@latest"
 	"reflect"
 )
 
